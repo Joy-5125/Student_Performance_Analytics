@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python_Marks,NumPy_Marks,Pandas_Marks,Attendance
+STU001,Aarav Sharma,CSE,92,88,95,96
+STU002,Diya Roy,CSE,85,91,89,94
+STU003,Ishaan Das,IT,78,82,80,88
+STU004,Ananya Sen,ECE,67,73,70,91
+STU005,Rohan Dutta,CSE,55,61,58,79
+STU006,Meera Ghosh,IT,94,96,92,98
+STU007,Kabir Bose,ECE,42,48,45,76
+STU008,Saanvi Paul,CSE,88,84,90,93
+STU009,Aditya Nandi,IT,36,52,44,82
+STU010,Ira Mukherjee,ECE,73,69,76,87
+STU011,Arjun Saha,CSE,61,64,59,72
+STU012,Tara Banerjee,IT,81,79,85,95
+STU013,Vivaan Mitra,ECE,49,43,51,80
+STU014,Aditi Chakraborty,CSE,97,93,98,99
+STU015,Reyansh Pal,IT,58,55,62,68
+STU016,Nisha Roy,ECE,84,87,82,90
+STU017,Soham Chatterjee,CSE,31,38,42,74
+STU018,Kiara Dey,IT,70,75,72,86
+STU019,Dev Mallick,ECE,46,57,40,77
+STU020,Maya Lahiri,CSE,89,92,86,97
