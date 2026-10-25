@@ -3,10 +3,8 @@
 ## 1. Project Title
 **Student Performance Analytics System**
 
-Student Name: ____________________  
-Roll Number: ____________________  
+Student Name: JOY GHOSH 
 Course: Python with AI  
-Submission Date: 15 October 2026
 
 ## 2. Objective
 The objective is to build a Python-based system that reads student records and turns marks and attendance into understandable performance summaries. It helps identify students who are performing well, students who need support, the strongest subject, and differences between departments.
@@ -69,7 +67,7 @@ A student passes only if the mark in **each** of Python, NumPy and Pandas is 40 
 - Top five performers.
 - Exported analysis CSV files.
 
-## 8. Output / Screenshots
+## 8. Output
 Run the notebook in Google Colab and capture screenshots of:
 1. The dataset preview.
 2. The student-wise results table.
@@ -77,7 +75,6 @@ Run the notebook in Google Colab and capture screenshots of:
 4. The subject-wise and department-wise summaries.
 5. The top five performers and saved output files.
 
-Insert the screenshots here before submitting if your trainer requires them.
 
 ## 9. Final Outcome
 The project provides a readable summary of student performance from a CSV dataset. It calculates student totals and averages, assigns grades, identifies pass/fail status, compares subjects and departments, lists top performers, and exports the results for later review.
@@ -85,8 +82,6 @@ The project provides a readable summary of student performance from a CSV datase
 ## 10. Challenges and Learning
 Possible learning points include keeping CSV column names consistent, validating numeric data, choosing clear grading thresholds, using Pandas for tabular operations, using NumPy for numerical summaries, and separating calculations into reusable functions. Describe the actual issues you encountered after running and testing the project.
 
-## 11. GitHub Repository
-Repository URL: **Add your public GitHub repository URL here after uploading the project.**
 
 ## 12. Testing Checklist
 - [ ] `students.csv` contains at least 15–20 records.
@@ -96,5 +91,3 @@ Repository URL: **Add your public GitHub repository URL here after uploading the
 - [ ] Subject-wise and department-wise analyses are displayed.
 - [ ] Top performers are listed.
 - [ ] CSV output files are generated.
-- [ ] README and this documentation are uploaded to GitHub.
-- [ ] Final repository URL is submitted through the EWB Google Form.
